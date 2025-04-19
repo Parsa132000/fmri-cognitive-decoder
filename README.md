@@ -1,0 +1,3 @@
+# 🧠 fMRI Cognitive State Classifier
+
+A powerful end-to-end machine learning pipeline for classifying cognitive states from functional MRI (fMRI) data...
