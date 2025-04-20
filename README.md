@@ -52,5 +52,5 @@ Classify which kind of stimulus (e.g., face, house, cat) a subject is observing 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fmri-cognitive-state-classifier.git
+   git clone https://github.com/yourusername/fmri-cognitive-decoder.git
    cd fmri-cognitive-state-classifier
